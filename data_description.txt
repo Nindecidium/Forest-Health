@@ -1,0 +1,37 @@
+Plot_ID: This is the unique identifier for a specific plot or study area.
+
+Latitude: This is the geographic coordinate that specifies the distance north or south of the equator.
+
+Longitude: This is the geographic coordinate that specifies the distance east or west of the Greenwich meridian.
+
+DBH: Measurement of the diameter of a tree trunk at 1.37 meters (4.5 feet) above the ground.
+
+Tree_Height: The total height of the tree from the base to the top.
+
+Crown_Width_North_South: Measurement of the width of the tree's crown in the north-south direction.
+
+Crown_Width_East_West: Measurement of the width of the tree's crown in the east-west direction.
+
+Slope: Slope of the terrain where the plot is located.
+
+Elevation: Altitude of the plot above sea level.
+
+Temperature: Measurement of the temperature at the plot.
+
+Humidity: Measure of the moisture content in the air in the plot.
+
+Soil_TN: Measures the total amount of nitrogen present in the soil, essential for plant growth.
+
+Soil_TP: Measures the total amount of phosphorus in the soil, a crucial nutrient for plants.
+
+Soil_AP: Indicates the amount of phosphate available to plants.
+
+Soil_AN: Represents the amount of nitrogen available to plants.
+
+Menhinick_Index: The Menhinick index measures species richness in relation to sample size.
+
+Gleason_Index: The Gleason index is based on species diversity and the relative abundance of each species in a community.
+
+Disturbance_Level: Refers to the degree of disturbance in an ecosystem, whether by natural events or human activities.
+
+Fire_Risk_Index: Evaluates the potential for forest fires in a given area considering factors such as vegetation, climate, and human activity.
